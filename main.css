@@ -1,0 +1,52 @@
+html {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    text-align: center;
+}
+
+a {
+    background-color: #ffbf00;
+    border: 1px solid #333;
+    border-radius: 11px;
+    color: black;
+    display: block;
+    font-size: 110%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 11px;
+    max-width: 451px;
+    padding: 11px 0px;
+    text-decoration: none;
+    width: 99%;
+}
+
+a:hover {
+    background-color: #86b300;
+    color: #fff;
+}
+
+a:visited {
+    color: purple;
+}
+
+em {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+h2 {
+    font-size: 99%;
+    font-weight: normal;
+}
+
+i {
+    font-family: "Meow Script", cursive;
+    font-size: 143%;
+    font-weight: normal;
+}
+
